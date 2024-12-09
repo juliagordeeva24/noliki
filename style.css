@@ -5,7 +5,7 @@ body {
     align-items: center;
     flex-direction: column;
     height: 100vh;
-    background-color: #edd8f0;
+    background-color: #F08080;
 }
 
 .container {
@@ -23,7 +23,7 @@ body {
 .cell {
     width: 100px;
     height: 100px;
-    background-color: #eccbcb;
+    background-color: #fff;
     font-size: 2em;
     display: flex;
     align-items: center;
@@ -33,7 +33,7 @@ body {
 }
 
 .cell:hover {
-    background-color: #c978cc;
+    background-color: #FF7F50;
 }
 
 button {
